@@ -277,7 +277,9 @@ p{
         } 
 
 @media screen and (max-width:991px)
-{
+{   .BigHeading {
+Font-size : 40px;
+}
     .profilepic{
         width:50% ;
         margin-bottom:50px;
